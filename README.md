@@ -1,2 +1,2 @@
 # first-triyal
-this is my first repository on github
+this is my first repository on github.commit changes
